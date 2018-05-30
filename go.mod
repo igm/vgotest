@@ -1,1 +1,1 @@
-module github.com/igm/vgotest/v2
+module github.com/igm/vgotest
